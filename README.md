@@ -1,7 +1,5 @@
 ## Hi there, I'm Sara! 👋🏼
 
----
-
 ### I'm a future front-end developer
 
 -   🎓 Economics & International Business undergrad
@@ -19,8 +17,6 @@
 -   💖 Notion enthusiast and cronic dashboard maker
 -   🌻 In love with coding and design since forever
 -   ✨ Some of my hobbies are bullet journaling, reading, creating moodboards and cooking pastries
-
----
 
 ## Get in touch
 
