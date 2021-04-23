@@ -20,8 +20,8 @@
 
 ## Get in touch
 
-    * 🔗 LinkedIn: linkedin.com/in/saramansori
-    * 🔗 Twitter: twitter.com/saralovelace_
+    * 🔗 LinkedIn: https://linkedin.com/in/saramansori
+    * 🔗 Twitter: https://twitter.com/saralovelace_
 
 <!--
 **SaraMansori/SaraMansori** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
