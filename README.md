@@ -18,6 +18,8 @@
 -   🌻 In love with **coding** and **design** since forever
 -   ✨ Some of my **hobbies** are bullet journaling, reading, creating moodboards and cooking pastries
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saramansori&layout=compact)](https://github.com/saramansori/github-readme-stats)
+
 ## Get in touch
 
 -   🔗 [LinkedIn](https://linkedin.com/in/saramansori)
