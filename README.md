@@ -1,6 +1,6 @@
 ## Hi there, I'm Sara! 👋🏼
 
-### I'm a future front-end developer
+### I'm a future web developer
 
 -   🎓 Bachelor in **Economics & International Business**
 -   💻 Technology enthusiast
