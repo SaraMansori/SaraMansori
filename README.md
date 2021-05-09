@@ -14,7 +14,7 @@
     -   Node.js
     -   Figma
 
--   💖 **Notion** enthusiast and cronic dashboard maker
+-   💖 **Notion** fan and cronic dashboard maker
 -   🌻 In love with **coding** and **design** since forever
 -   ✨ Some of my **hobbies** are bullet journaling, reading, creating moodboards and cooking pastries
 
