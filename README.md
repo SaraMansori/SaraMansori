@@ -2,6 +2,7 @@
 
 ### I'm a future web developer
 
+-   👩‍💻 **Coding Bootcamp Student** @ Skylab Coders Academy
 -   🎓 Bachelor in **Economics & International Business**
 -   💻 Technology enthusiast
 -   📚 Currently learning/using:
