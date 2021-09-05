@@ -5,14 +5,15 @@
 -   👩‍💻 **Coding Bootcamp Student** @Ironhack
 -   🎓 Bachelor in **Economics & International Business**
 -   💻 Technology enthusiast
--   📚 Currently learning/using:
+-   📚 Technologies:
 
     -   HTML
     -   CSS
     -   Javascript
     -   React
-    -   Redux
     -   Node.js
+    -   Express
+    -   MongoDB
     -   Figma
 
 -   💖 **Notion** fan and cronic dashboard maker
