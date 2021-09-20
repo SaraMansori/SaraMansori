@@ -1,6 +1,6 @@
 ## Hi there, I'm Sara! 👋🏼
 
-### I'm a future web developer
+### I'm a front end developer
 
 -   👩‍💻 **Coding Bootcamp Student** @Ironhack
 -   🎓 Bachelor in **Economics & International Business**
