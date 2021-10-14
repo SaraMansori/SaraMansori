@@ -2,7 +2,9 @@
 
 ### I'm a front end developer
 
--   👩‍💻 **Coding Bootcamp Alumni** @Ironhack
+-   🍎 **Assistant Teacher** @Ironhack 
+-   🎓 **Web Development Master** @UniversitatObertaCatalunya
+-   👩‍💻 **Web Development Bootcamp Alumni** @Ironhack
 -   🎓 Bachelor in **Economics & International Business**
 -   💻 Technology enthusiast
 -   📚 Technologies:
