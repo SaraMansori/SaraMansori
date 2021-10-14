@@ -10,14 +10,14 @@
     -   HTML
     -   CSS
     -   Javascript
-    -   React
+    -   React (w/ hooks)
     -   Node.js
     -   Express
     -   MongoDB
     -   Figma
 
 -   💖 **Notion** fan and cronic dashboard maker
--   🌻 In love with **coding** and **design** 
+-   🌻 In love with **clean code** and **design** 
 -   ✨ Some of my **hobbies** are bullet journaling, reading, creating moodboards and cooking pastries
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saramansori&layout=compact)](https://github.com/saramansori/github-readme-stats)
