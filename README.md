@@ -2,7 +2,7 @@
 
 ### I'm a front end developer
 
--   🍎 **Assistant Teacher** @Ironhack 
+-   🍎 **Web Development Teacher Assistant** @Ironhack 
 -   🎓 **Web Development Master** @UniversitatObertaCatalunya
 -   👩‍💻 **Web Development Bootcamp Alumni** @Ironhack
 -   🎓 Bachelor in **Economics & International Business**
