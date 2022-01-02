@@ -5,7 +5,7 @@
 -   🍎 **Web Development Teacher Assistant** @Ironhack 
 -   🎓 **Master of Science in Web Development** @UniversitatObertaCatalunya
 -   👩‍💻 **Web Development Bootcamp Alumni** @Ironhack
--   🎓 ** BSc in Economics & International Business** @UAH
+-   🎓 **BSc in Economics & International Business** @UAH
 -   💻 Technology enthusiast
 -   📚 Technologies:
 
