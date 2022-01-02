@@ -9,16 +9,16 @@
 -   💻 Technology enthusiast
 -   📚 Technologies:
 
-    -   HTML
-    -   CSS
-    -   Javascript
+    -   HTML5
+    -   CSS3
+    -   Javascript (ES6)
     -   React (w/ hooks)
     -   Node.js
     -   Express
     -   MongoDB
     -   Figma
 
--   💖 **Notion** fan and cronic dashboard maker
+-   💖 **Notion** fan and dashboard maker
 -   🌻 In love with **clean code** and **design** 
 -   ✨ Some of my **hobbies** are bullet journaling, reading, creating moodboards and cooking pastries
 
