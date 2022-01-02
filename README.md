@@ -12,6 +12,7 @@
     -   HTML5
     -   CSS3
     -   Javascript (ES6)
+    -   TypeScript
     -   React (w/ hooks)
     -   Node.js
     -   Express
