@@ -3,9 +3,9 @@
 ### I'm a front end developer
 
 -   🍎 **Web Development Teacher Assistant** @Ironhack 
--   🎓 **Web Development Master** @UniversitatObertaCatalunya
+-   🎓 **Master of Science in Web Development** @UniversitatObertaCatalunya
 -   👩‍💻 **Web Development Bootcamp Alumni** @Ironhack
--   🎓 Bachelor in **Economics & International Business**
+-   🎓 ** BSc in Economics & International Business** @UAH
 -   💻 Technology enthusiast
 -   📚 Technologies:
 
