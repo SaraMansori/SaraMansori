@@ -1,8 +1,8 @@
 ## Hi there, I'm Sara! 👋🏼
 
-### I'm a front end developer
+### About me
 
--   🍎 **Web Development Teacher Assistant** @Ironhack 
+-   💻 **Full-stack Developer** @Travelport 
 -   🎓 **Master of Science in Web Development** @UniversitatObertaCatalunya
 -   👩‍💻 **Web Development Bootcamp Alumni** @Ironhack
 -   🎓 **BSc in Economics & International Business** @UAH
