@@ -2,7 +2,7 @@
 
 ### About me
 
--   💻 **Full-stack Developer** @Travelport 
+-   💻 **Frontend Engineer** @Cabify 
 -   🎓 **Master of Science in Web Development** @UniversitatObertaCatalunya
 -   👩‍💻 **Web Development Bootcamp Alumni** @Ironhack
 -   🎓 **BSc in Economics & International Business** @UAH
