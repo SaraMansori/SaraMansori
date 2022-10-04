@@ -6,24 +6,18 @@
 -   🎓 **Master of Science in Web Development** @UniversitatObertaCatalunya
 -   👩‍💻 **Web Development Bootcamp Alumni** @Ironhack
 -   🎓 **BSc in Economics & International Business** @UAH
--   💻 Technology enthusiast
 -   📚 Technologies:
 
-    -   HTML5
-    -   CSS3
-    -   Javascript (ES6)
-    -   TypeScript
-    -   React (w/ hooks)
+    -   HTML5 | CSS3
+    -   Javascript & Typescript
+    -   React | Redux
     -   Node.js
     -   Express
     -   MongoDB
-    -   Figma
 
--   💖 **Notion** fan and dashboard maker
+-   💖 **Notion** & **Figma** enthusiast 
 -   🌻 In love with **clean code** and **design** 
 -   ✨ Some of my **hobbies** are bullet journaling, reading, creating moodboards and cooking pastries
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saramansori&layout=compact)](https://github.com/saramansori/github-readme-stats)
 
 ## Get in touch
 
